@@ -77,7 +77,12 @@ mern-bug-tracker/
 ├── .gitignore
 └── myReadMe.MD
 
-![Bug Tracker Screenshot](screenshot.png)
+**Screenshots**
+
+![One](<Screenshot (111).png>)
+[Two](<Screenshot (109).png>)
+![Three](<Screenshot (110).png>)
+
 
 ## ✨ Features
 
